@@ -3,7 +3,7 @@
 /*Body*/
 body{
     background-color: aliceblue;
-    background-image: url("/img/bballCourt.jpg");
+    background-image: url("/media/bballCourt.jpg");
     height: 100%;
     width: 100%;
     background-size: 3000px;
